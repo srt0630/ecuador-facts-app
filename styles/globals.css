@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+  }
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  .fact {
+    margin-bottom: 1.5rem;
+  }
+  h1 {
+    color: #2f4858;
+  }
+  
