@@ -22,7 +22,7 @@ export default function Home() {
 
   return (
     <div className="container">
-      <h1>Discover Ecuador</h1>
+      <h1>Discover Ecuador 🇪🇨</h1>
 
       <div style={{ marginBottom: '1rem' }}>
         <input
